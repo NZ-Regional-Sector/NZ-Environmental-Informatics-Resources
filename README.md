@@ -4,7 +4,7 @@ A collection of links to courses, websites, repositories and code relevant to Ne
 
 ## Usage
 
-The links are organised via themes / categories on the [Index page](docs/01_Index.md).
+The links are organised via themes / categories on the [Index page](Docs/01_Index.md).
 
 ## Project Status
 
